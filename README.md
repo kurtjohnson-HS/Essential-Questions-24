@@ -5,9 +5,7 @@ Addressing the question: Are my students improving in math?
 PowerBI solution for visualizing assessment progress using data in the Ed-Fi
 ODS/API Suite 2.
 
-* [User Guide](docs/EQ_24_Technical_Guidebook_v2.5.docx)
-* [SQL Scripts](src/CreateEADM_withCache.sql)
-* [PowerBi File](ED24_EdFi_Glenndale_v25.pbix)
+
 
 ## Legal Information
 

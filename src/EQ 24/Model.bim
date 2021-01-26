@@ -6,7 +6,7 @@
     "dataSources": [
       {
         "name": "EdFi ODS",
-        "connectionString": "Provider=SQLNCLI11;Data Source=edfipras12;Initial Catalog=EdFi_Prodv2_Ods_2020;Persist Security Info=true;User ID=ASRefresh_svc",
+        "connectionString": "Provider=SQLNCLI11;Data Source=localhost;Persist Security Info=false;User ID=ASRefresh_svc;Integrated Security=SSPI;Initial Catalog=EdFi_Ods_Sandbox_TD6AmbhZidtOEKNCoYJlj",
         "impersonationMode": "impersonateServiceAccount",
         "annotations": [
           {
@@ -17,7 +17,7 @@
       },
       {
         "name": "PowerBI Database",
-        "connectionString": "Provider=SQLNCLI11;Data Source=edfipras12;Initial Catalog=PowerBI;User ID=ASRefresh_svc;Persist Security Info=true",
+        "connectionString": "Provider=SQLNCLI11;Data Source=localhost;Initial Catalog=PowerBI;User ID=ASRefresh_svc;Persist Security Info=false;Integrated Security=SSPI",
         "impersonationMode": "impersonateServiceAccount",
         "annotations": [
           {

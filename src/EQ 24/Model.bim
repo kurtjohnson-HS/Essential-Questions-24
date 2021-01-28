@@ -3145,7 +3145,7 @@
                 "      ,[EndDate]",
                 "      ,[LocalEducationAgencyId]",
                 "  FROM [bi].[uniform.StaffSectionAssociation]",
-                "WHERE LocalEducationAgencyId = 38"
+                "WHERE LocalEducationAgencyId = 255901"
               ],
               "dataSource": "EdFi ODS"
             },
@@ -3166,7 +3166,7 @@
                   "      ,[EndDate]",
                   "      ,[LocalEducationAgencyId]",
                   "  FROM [bi].[uniform.StaffSectionAssociation]",
-                  "WHERE LocalEducationAgencyId = 38</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
+                  "WHERE LocalEducationAgencyId = 255901</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
                 ]
               }
             ]
@@ -3189,7 +3189,7 @@
               "      ,[EndDate]",
               "      ,[LocalEducationAgencyId]",
               "  FROM [bi].[uniform.StaffSectionAssociation]",
-              "WHERE LocalEducationAgencyId = 38"
+              "WHERE LocalEducationAgencyId = 255901"
             ]
           },
           {
@@ -3216,7 +3216,7 @@
               "      ,[EndDate]",
               "      ,[LocalEducationAgencyId]",
               "  FROM [bi].[uniform.StaffSectionAssociation]",
-              "WHERE LocalEducationAgencyId = 38</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
+              "WHERE LocalEducationAgencyId = 255901</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
             ]
           }
         ]
